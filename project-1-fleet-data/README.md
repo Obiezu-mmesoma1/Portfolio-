@@ -9,7 +9,8 @@ After (Cleaned):
 ![After Image](./Fleet_After.png)
 
 
-Goal
+Goal:
+
 Clean a messy government fleet dataset by fixing truncated text, merging split columns, and standardizing department names for clear analysis.
 
 What I Did in Excel
@@ -22,8 +23,10 @@ Merged split columns: Combined separate department columns into one clean column
 - Formatted as Table: Applied table formatting with color-coded headers for readability
 
 
-Result
+Result:
+
 Transformed a messy, hard-to-read spreadsheet into a clean, analysis-ready table showing equipment counts across 10+ county departments.
 
- Tools
+ Tools:
+ 
 Microsoft Excel (Data Cleaning, Merging Columns, Remove Duplicates, Format as Table)
