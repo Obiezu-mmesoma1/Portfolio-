@@ -2,7 +2,8 @@
 
 Data Analyst | Excel
 
-📫 [LinkedIn](https://www.linkedin.com/in/obiezujennifer1) | 📧 obiezumm62@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/obiezujennifer1) | 
+📧 obiezumm62@gmail.com
 
 
 My Projects:
